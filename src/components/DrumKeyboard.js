@@ -1,7 +1,7 @@
 import React from 'react';
 
 const DrumKeyboard = () => {
-  return ( <div id="drum-keyboard" className="container-sm justify-content-center">
+  return ( <div id="drum-keyboard" className="container-sm justify-content-center" style={{display: "none"}}>
   <div className="row">
     <button id="snare" className="drum-pad" onClick={() => { console.log('hello')}} >
       Q
