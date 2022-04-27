@@ -10,7 +10,6 @@ function App() {
       <DrumMap />
       <SoundFXDisplay />
       <DrumKeyboard />
-      <RandomAudio />
       <AudioPlayer />
     </div>
   );
