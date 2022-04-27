@@ -4,7 +4,7 @@ import {Howl, Howler} from 'howler';
 const AudioPlayer = () => {
   const cymballight1 = new Audio('../assets/cymballight1.mp3');
   let sound_file = new Howl({
-    src: ['../assets/cymbal-light-2.mp3']
+    src: ['audio/snare.mp3']
   });
 
   return (
