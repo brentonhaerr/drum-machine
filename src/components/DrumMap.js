@@ -1,4 +1,5 @@
 import React from 'react';
+import playTomMid from './AudioPlayer';
 
 const DrumMap = () => {
   return ( 
