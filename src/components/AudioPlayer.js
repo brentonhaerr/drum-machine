@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import {Howl, Howler} from 'howler';
 import tomhigh1fx from '../audio/tom-high-1.mp3';
 import tomhigh2fx from '../audio/tom-high-2.mp3';
 import cymballight1fx from '../audio/cymbal-light-1.mp3';
